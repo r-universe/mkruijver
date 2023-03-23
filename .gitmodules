@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "numberofalleles"]
+	path = numberofalleles
+	url = https://github.com/cran/numberofalleles
+	shallow = true
+	registered = true
+[submodule "simDNAmixtures"]
+	path = simDNAmixtures
+	url = https://github.com/cran/simDNAmixtures
+	shallow = true
+	registered = true
