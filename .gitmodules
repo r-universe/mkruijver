@@ -7,7 +7,7 @@
 	url = https://github.com/mkruijver/disclapmix2
 [submodule "numberofalleles"]
 	path = numberofalleles
-	url = https://github.com/cran/numberofalleles
+	url = https://github.com/mkruijver/numberofalleles
 [submodule "simDNAmixtures"]
 	path = simDNAmixtures
-	url = https://github.com/cran/simDNAmixtures
+	url = https://github.com/mkruijver/simdnamixtures
