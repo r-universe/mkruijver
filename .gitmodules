@@ -5,6 +5,9 @@
 [submodule "disclapmix2"]
 	path = disclapmix2
 	url = https://github.com/mkruijver/disclapmix2
+[submodule "forensicpopdata"]
+	path = forensicpopdata
+	url = https://github.com/mkruijver/forensicpopdata
 [submodule "numberofalleles"]
 	path = numberofalleles
 	url = https://github.com/mkruijver/numberofalleles
