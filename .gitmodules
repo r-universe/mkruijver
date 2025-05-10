@@ -8,6 +8,9 @@
 [submodule "forensicpopdata"]
 	path = forensicpopdata
 	url = https://github.com/mkruijver/forensicpopdata
+[submodule "forensim"]
+	path = forensim
+	url = https://github.com/mkruijver/forensim
 [submodule "ibdsegments"]
 	path = ibdsegments
 	url = https://github.com/mkruijver/ibdsegments
